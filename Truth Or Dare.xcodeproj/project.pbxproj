@@ -13,6 +13,7 @@
 		A51D0EF7281882FD0010F58C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A51D0EF5281882FD0010F58C /* Main.storyboard */; };
 		A51D0EF9281882FE0010F58C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A51D0EF8281882FE0010F58C /* Assets.xcassets */; };
 		A51D0EFC281882FE0010F58C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A51D0EFA281882FE0010F58C /* LaunchScreen.storyboard */; };
+		A5487E8C2829AA73004AE04F /* TruthOrDareViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5487E8B2829AA73004AE04F /* TruthOrDareViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A51D0EF8281882FE0010F58C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A51D0EFB281882FE0010F58C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A51D0EFD281882FE0010F58C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5487E8B2829AA73004AE04F /* TruthOrDareViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TruthOrDareViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				A51D0EF1281882FD0010F58C /* SceneDelegate.swift */,
 				A51D0EF3281882FD0010F58C /* ViewController.swift */,
 				A51D0EF5281882FD0010F58C /* Main.storyboard */,
+				A5487E8B2829AA73004AE04F /* TruthOrDareViewController.swift */,
 				A51D0EF8281882FE0010F58C /* Assets.xcassets */,
 				A51D0EFA281882FE0010F58C /* LaunchScreen.storyboard */,
 				A51D0EFD281882FE0010F58C /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A51D0EF4281882FD0010F58C /* ViewController.swift in Sources */,
+				A5487E8C2829AA73004AE04F /* TruthOrDareViewController.swift in Sources */,
 				A51D0EF0281882FD0010F58C /* AppDelegate.swift in Sources */,
 				A51D0EF2281882FD0010F58C /* SceneDelegate.swift in Sources */,
 			);

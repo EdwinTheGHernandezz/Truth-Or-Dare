@@ -13,16 +13,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    @IBOutlet var truthButton: UIView!
-    @IBOutlet var dareButton: UIView!
-    @IBAction func truthbutton1(_ sender: Any) {
+ 
         
-        
-    }
-    
-    @IBOutlet weak var darebutton1: UIImageView!
     
     
+  
 }
 
 
