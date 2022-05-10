@@ -9,11 +9,19 @@ import UIKit
 
 class TruthOrDareViewController: UIViewController {
 
+    var imageName = ""
+    var item = ""
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        
+        imageChoice.image = UIImage(named: imageName)
+        theoutcome.text = item
     }
+    @IBOutlet weak var imageChoice: UIImageView!
+    @IBOutlet weak var theoutcome: UITextView!
     
 
     /*
